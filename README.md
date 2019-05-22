@@ -2,7 +2,7 @@
 UIColorExtended will provide you ease to choose colors between flat and material colors.
 
 # How to use it
-You can use as you are working normally with UIColor class except that there is slightly a difference
+First of all, copy the  `UIColor.swift` file and paste it anywhere in your project. And then you can use it as you are working normally with `UIColor` class except that there is slightly a difference.
 
 If you want to use material colors
 ```
