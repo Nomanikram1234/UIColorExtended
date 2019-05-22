@@ -1,6 +1,19 @@
 # UIColorExtended
 UIColorExtended will provide you ease to choose colors between flat and material colors.
 
+# How to use it
+You can use as you are working normally with UIColor class except that there is slightly a difference
+
+If you want to use material colors
+```
+UIColor.materialColor
+```
+
+If you want to use flat colors
+```
+UIColor.flatColor
+```
+
 # Flat Color Palatte
 There are many color available in the list from where you can choose from.Following colors are available in our flat colors list
 1. turquoise
